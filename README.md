@@ -44,10 +44,4 @@ Busco construir uma base sólida em programação e entender como sistemas funci
 
 ---
 
-## 📫 Contato
 
-<p align="center">
-  <a href="mailto:tiago.levi.dev@gmail.com">
-    <img src="https://img.shields.io/badge/email-contato-blue?style=for-the-badge&logo=gmail">
-  </a>
-</p>
